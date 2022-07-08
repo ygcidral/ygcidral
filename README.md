@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ygcidral
+-#s o b r e   m i m
+
+👋 Hi, I’m @ygcidral
 - 👀 I’m interested in to read
 - 🌱 I’m currently learning schedule
 - 💞️ I’m looking to collaborate on schedule
