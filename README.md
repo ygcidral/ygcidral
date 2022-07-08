@@ -1,4 +1,4 @@
--#s o b r e   m i m
+# S o b r e   M i m
 
 👋 Hi, I’m @ygcidral
 - 👀 I’m interested in to read
