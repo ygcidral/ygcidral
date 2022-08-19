@@ -1,10 +1,9 @@
 # S o b r e   M i m
 
-👋 Hi, I’m @ygcidral
-- 👀 I’m interested in to read
-- 🌱 I’m currently learning schedule
+- 👋 ola meu nome é @ygcidral
+- 👀 eu estou interresada em aprender a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 - 💞️ I’m looking to collaborate on schedule
-- 📫 How to reach me by email
 
 <!---
 ygcidral/ygcidral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
