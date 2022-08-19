@@ -3,7 +3,7 @@
 - 👋 ola meu nome é @ygcidral
 - 👀 eu estou interresada em aprender a programar novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
-- 💞️ I’m looking to collaborate on schedule
+
 
 <!---
 ygcidral/ygcidral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
