@@ -1,6 +1,6 @@
 # S o b r e   M i m
 
-- 👋 ola meu nome é @ygcidral
+- 👋 olá meu nome é @ygcidral
 - 👀 eu estou interresada em aprender a programar novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
